@@ -1,6 +1,13 @@
-# Todo Application
+# iTask Application
 
 A sleek and efficient single-page Todo application built with **Vite**, **React**, **Tailwind CSS**, and **React Icons**. This app allows users to effortlessly manage their tasks by adding, marking as complete or incomplete, and deleting todos. All data is stored locally using **localStorage**, ensuring persistent task management.
+
+---
+
+## Screenshots
+
+### Home Page
+<img width="1440" alt="Screenshot" src="https://github.com/user-attachments/assets/615019e5-6e4f-43da-a5c1-7165dcfb3d96" />
 
 ---
 
@@ -23,20 +30,11 @@ A sleek and efficient single-page Todo application built with **Vite**, **React*
 
 ---
 
-## Installation and Setup
-
-Follow these steps to set up and run the application locally:
-
-### Prerequisites
-
-- Node.js (v16 or later) installed on your system
-- npm or yarn package manager
-
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/todo-app.git
-cd todo-app
+git clone https://github.com/MohammedTausif/Task-Mangement.git
+cd Task-Mangement
 ```
 
 ### Install Dependencies
@@ -73,9 +71,3 @@ npm run preview
 
 ---
 
-## Screenshots
-
-### Home Page
-<img width="1440" alt="Screenshot" src="https://github.com/user-attachments/assets/615019e5-6e4f-43da-a5c1-7165dcfb3d96" />
-
----
